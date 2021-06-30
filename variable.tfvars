@@ -1,0 +1,7 @@
+region	                = "us-central1"
+project	                = "glass-flux-317614"
+name			= "test-redis"
+authorized_network      = "vpc-test"
+memory_size_gb 		= "1"
+display_name 		= "cloud test redis instance"
+tier 			= "STANDARD_HA"
